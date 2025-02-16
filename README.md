@@ -3,6 +3,8 @@ A Dental Practice System.
 
 Kohr DMS - Dental Management System
 
+Explainer Video: [go to video](https://drive.google.com/drive/folders/1zw-tPUH6Oe_JpeT-_Ul4fhs-f5E1ldFf)
+
 Overview:
 Kohr DMS was designed as a **comprehensive dental management system** where patients could:
 - Book appointments 
