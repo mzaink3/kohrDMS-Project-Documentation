@@ -1,0 +1,34 @@
+(Understanding Description):
+
+ this system will only be accessible to registered patients of the clinic (not necessary) as this system will also be used for upcoming registering patients.
+Like all the registered (upcoming or existing) all of their data will be in this system.
+
+Super Admin Panel will also be there in this project, which will only be accessible by Ms. Amy.
+Admin Panel will also be there, which will be accessed and used by the Office Staff and relative Admins.
+
+
+(Description Overview):
+
+Project Overview
+
+Project Name: Dental Management System (DMS)
+
+Type: Web-Based System
+
+Access: Accessible to both existing and upcoming registered patients of the Dental Office
+
+Key Components:
+
+Web-Based Dental Management System for patients
+Super Admin Panel (accessible only by Ms. Amy)
+Admin Panel (for office staff and relevant admins)
+Graphics Services (UI/UX Design, Brand Identity)
+Portfolio Website
+
+Deliverables
+
+Web-Based Dental Management System
+Web-Based Super Admin Panel
+Web-Based Admin Panel
+Graphics Services
+Portfolio Website
